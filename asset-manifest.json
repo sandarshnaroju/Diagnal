@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/diagnal/static/css/main.04ad823f.chunk.css",
-    "main.js": "/diagnal/static/js/main.8fc03b02.chunk.js",
-    "main.js.map": "/diagnal/static/js/main.8fc03b02.chunk.js.map",
+    "main.css": "/diagnal/static/css/main.db25cab2.chunk.css",
+    "main.js": "/diagnal/static/js/main.4c11953e.chunk.js",
+    "main.js.map": "/diagnal/static/js/main.4c11953e.chunk.js.map",
     "runtime-main.js": "/diagnal/static/js/runtime-main.142f0eb6.js",
     "runtime-main.js.map": "/diagnal/static/js/runtime-main.142f0eb6.js.map",
     "static/js/2.d873fa28.chunk.js": "/diagnal/static/js/2.d873fa28.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.474cb17c.chunk.js": "/diagnal/static/js/3.474cb17c.chunk.js",
     "static/js/3.474cb17c.chunk.js.map": "/diagnal/static/js/3.474cb17c.chunk.js.map",
     "index.html": "/diagnal/index.html",
-    "static/css/main.04ad823f.chunk.css.map": "/diagnal/static/css/main.04ad823f.chunk.css.map",
+    "static/css/main.db25cab2.chunk.css.map": "/diagnal/static/css/main.db25cab2.chunk.css.map",
     "static/js/2.d873fa28.chunk.js.LICENSE.txt": "/diagnal/static/js/2.d873fa28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.142f0eb6.js",
     "static/js/2.d873fa28.chunk.js",
-    "static/css/main.04ad823f.chunk.css",
-    "static/js/main.8fc03b02.chunk.js"
+    "static/css/main.db25cab2.chunk.css",
+    "static/js/main.4c11953e.chunk.js"
   ]
 }
